@@ -1,0 +1,6 @@
+{
+  "name": "HisabBook Pro",
+  "description": "Offline Indian business register and worker payment management app in INR (₹) with Hindi & English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
